@@ -2,5 +2,6 @@
 	"version_code":10,
 	"require_update": true,
 	"hideRate":false,
+	"showAds":false,
 	"data_type":0
 }
