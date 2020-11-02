@@ -1,7 +1,7 @@
 {
-	"version_code":10,
+	"version_code":12,
 	"require_update": true,
 	"hideRate":false,
-	"showAds":false,
+	"showAds":true,
 	"data_type":0
 }
