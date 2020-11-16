@@ -3,5 +3,6 @@
 	"require_update": true,
 	"hideRate":false,
 	"showAds":true,
+	"showAds2":false,
 	"data_type":0
 }
