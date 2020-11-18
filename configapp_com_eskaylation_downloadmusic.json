@@ -1,8 +1,8 @@
 {
-	"version_code":12,
-	"require_update": true,
+	"version_code":13,
+	"require_update": false,
 	"hideRate":false,
 	"showAds":true,
-	"showAds2":false,
+	"showAds2":true,
 	"data_type":0
 }
