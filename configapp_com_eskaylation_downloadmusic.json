@@ -2,8 +2,8 @@
   "version_code": 13,
   "require_update": false,
   "hideRate": false,
-  "showAds": true,
-  "showAds2": true,
+  "showAds": false,
+  "showAds2": false,
   "data_type": 0,
   "listpub": [
     "AI PAPPI",
